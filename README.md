@@ -1,3 +1,3 @@
-# Node.js Chat Application
+## Node.js Chat Application
 
-### This application is built using Node.js and Socket.io
+##### This application is built using Node.js and Socket.io
